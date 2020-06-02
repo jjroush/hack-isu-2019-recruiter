@@ -36,7 +36,7 @@ Won best domain nameat HACKISU
 
 # [Devpost Page](https://devpost.com/software/hack-isu-2019-recruiter) 👨‍💻
 
-![Team](https://drive.google.com/uc?id=1hpT7o5Y-DrPEN8JZvt5AdZJ5hdFzEiiq)
+<img height="200px" src="https://drive.google.com/uc?id=1hpT7o5Y-DrPEN8JZvt5AdZJ5hdFzEiiq"/>
 
 *The Team*
 
