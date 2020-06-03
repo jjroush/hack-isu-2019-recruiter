@@ -32,7 +32,7 @@ This token is used to call the github API to get profile information.
 
 ## HackISU 🏆
 
-Won best domain nameat HACKISU
+Won best domain name at HACKISU
 
 # [Devpost Page](https://devpost.com/software/hack-isu-2019-recruiter) 👨‍💻
 
